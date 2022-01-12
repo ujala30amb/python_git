@@ -11,3 +11,11 @@ This is VCfile3
 This is C file4
 This is C file5
 This is C file6
+
+This is B file1
+This is B file2
+This is B file3
+This is B file4
+This is B file5
+This is B file6
+
